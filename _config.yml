@@ -7,6 +7,7 @@ remote_theme: martab0/just-the-docs
 aux_links:
   "Source repository on GitHub":
     - "//github.com/martab0/martab0.github.io"
+
 back_to_top: true
 back_to_top_text: "Back to top"
 footer_content: "This documentation is part of the reference materials for the Technical Communication course at Vistula University (Warsaw)."
