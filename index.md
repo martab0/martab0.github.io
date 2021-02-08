@@ -13,11 +13,11 @@ permalink: /
 This is a simple line 
 
 <!-- Example for title -->
-Title
-=====
+Title of the document
+=====================
 
 <!-- Here comes the TOC -->
-- [Title](#title)
+- [Title of the document](#title-of-the-document)
 - [Header 1](#header-1)
   - [Header 1.1](#header-11)
 - [Header 2](#header-2)
