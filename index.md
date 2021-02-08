@@ -2,127 +2,101 @@
 
 layout: default
 title: Main page
-
 nav_order: 1
-
-description: "Most of the Markdown syntax"
-
+description: "Markdown syntax"
 permalink: /
 
 ---
 
-<!-- Example for normal text -->
-Here comes the sun!
-<!-- Example for title -->
 
-Sample document
-===============
+<!-- Example for normal text -->
+This is a simple line 
+
+<!-- Example for title -->
+Title
+=====
 
 <!-- Here comes the TOC -->
-Table of content
-
-- [Sample document](#sample-document)
-- [Header of chapter](#header-of-chapter)
-- [Header of another chapter](#header-of-another-chapter)
-  - [Chapter](#chapter)
-  - [Another chapter](#another-chapter)
-    - [Lower level chapter](#lower-level-chapter)
-- [One more header of chapter](#one-more-header-of-chapter)
-- [New header](#new-header)
-  - [Sub-header](#sub-header)
-  - [Second sub-header](#second-sub-header)
+- [Title](#title)
+- [Header 1](#header-1)
+  - [Header 1.1](#header-11)
+- [Header 2](#header-2)
+          - [Header 6](#header-6)
 
 <!-- Example of paragraph of text -->
-This is a paragraph of text.
-
-This is another paragraph of text.
-
-This is a paragraph of text. This is a paragraph of text. This is a paragraph of text. This is a paragraph of text. This is a paragraph of text.
-
-This is a line.  
-This is another line.
-This is not a new line.
+“There must be some way out of here,” said the joker to the thief  
+“There’s too much confusion, I can’t get no relief  
+Businessmen, they drink my wine, plowmen dig my earth  
+None of them along the line know what any of it is worth”  
 
 <!-- Example of another paragraph -->
-Paragraph of text that spans over one line. See how this displays when I write and write and write.
-What happens when I press Enter? - Nothing!  
-If I want a new line, I put two spaces and then Enter. This is still the same paragraph.
-
-Second paragraph of text.
+“No reason to get excited,” the thief, he kindly spoke  
+“There are many here among us who feel that life is but a joke  
+But you and I, we’ve been through that, and this is not our fate  
+So let us not talk falsely now, the hour is getting late”
 
 <!-- Example for Bold -->
-See how to insert **bold** text!
+**This is bold text**
 
 <!-- Example for Italic  -->
-And that's *how italic is defined*.
+*This italic*
+
 
 <!-- Example for Links -->
-[Weather](http://meteo.pl)
-
-[Localization](https://localization.pl)
+[This is a link](http://www.meteo.pl/)
 
 <!-- Example for Images -->
-![Alternative text for no image](./imagez/inglisz.jpg)
+![Alt text](/assets/images/inglisz.jpg "Hover text")
 
-<!-- Example for linking to another file-->
-[Reference text](Reference.md)
-
+![Does not work](file:///C:/MARTY/dokumenty/Vistula/Podstawowe%20technologie%20komunikacji%20technicznej/Examples/images/inglisz.jpg)
 
 <!-- Example for Headers -->
-# Header of chapter
-This is a paragraph of text. This is a paragraph of text. This is a paragraph of text. This is a paragraph of text. This is a paragraph of text.
-# Header of another chapter
-This is a paragraph of text. This is a paragraph of text. This is a paragraph of text. This is a paragraph of text. This is a paragraph of text.
-## Chapter
-Chapter text.
-## Another chapter
-More chapter text.
-### Lower level chapter
-Bla bla!
-# One more header of chapter
-This is a paragraph of text. This is a paragraph of text. This is a paragraph of text. This is a paragraph of text. This is a paragraph of text.
-Some text.
-# New header
-## Sub-header
-## Second sub-header
+# Header 1
+Paragraph of text
+## Header 1.1
+Another paragraph of text
+# Header 2
+Yet another paragraph of text
+...
+###### Header 6
+Even this header has some text!
 
-<!-- Just text with equation -->
-If x=2 then it's a relatively small x.
+
+
+<!-- Just text -->
+x=2;
+
 <!-- Example for inline code -->
-If you specify `x=2;` then your program substitutes 2 for x.
+Specify `x=2;` when x equals two.
+
 <!-- A block of code -->
-Here comes a codeblock:
 ```
 x=2;
-y=7;
+y=3;
 z=x+y;
 ```
 
-
 <!-- Example for Quote -->
-A wise man once said: 
->Don't listen to me!  
->Why would you?  
-
-And he was right.
+> All along the watchtower, princes kept the view  
+> While all the women came and went, barefoot servants, too 
 
 <!-- Example for Bullet List -->
-* bullet 
-* another bullet
-* one more bullet here
+* An item
+* Another item
+    * A sub-item
+    * Another sub-item
+* Yet one more item
 
 <!-- Example for Numbered List -->
-1. First point
-2. Second point
-3. Third point
+1. Item 1
+2. Item 2
 
 <!-- Example for Tables -->
+| header 1    | header 2    |
+| ----------- | ----------- |
+| item 1      | item 2      |
+| something 1 | something 2 |
 
-| header           | another header        |
-| ---------------- | --------------------- |
-| row content      | another row content   |
-| more row content | even more row content |
-
-Paragraph after table. Business as usual.
-
+<!-- Example for linking to another file-->
+[Additional content](Additional%20file.md)
 
