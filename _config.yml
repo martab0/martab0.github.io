@@ -4,7 +4,7 @@ description: Examples of Markdown syntax
 
 remote_theme: martab0/just-the-docs
 
-aux_links:  
+aux_links:
   "Source repository on GitHub":
     - "//github.com/martab0/martab0.github.io"
 back_to_top: true
