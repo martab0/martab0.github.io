@@ -1,3 +1,16 @@
+---
+
+layout: default
+title: Main page
+
+nav_order: 1
+
+description: "Most of the Markdown syntax"
+
+permalink: /
+
+---
+
 <!-- Example for normal text -->
 Here comes the sun!
 <!-- Example for title -->
