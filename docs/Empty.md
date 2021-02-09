@@ -1,3 +1,10 @@
+---
+layout: default
+title: Testing images
+nav_order: 1
+---
+
+
 <!-- Example for normal text -->
 Here comes the sun!
 <!-- Example for title -->
@@ -114,4 +121,4 @@ And he was right.
 
 Paragraph after table. Business as usual.
 
-
+Here I am testing an *inline style*{: style="text-decoration: underline; font-style: normal;"}. Let's hope it works.

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Testing images
-nav_order: 4
+nav_order: 2
 ---
 
 # Will SVGs render?
