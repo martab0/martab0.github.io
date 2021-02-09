@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Markdown syntax
-nav_order: 1
+nav_order: 2
 ---
 
 
