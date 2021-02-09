@@ -125,4 +125,4 @@ And he was right.
 
 Paragraph after table. Business as usual.
 
-
+Here I am testing an *inline style*{: style="text-decoration: underline; font-style: normal;"}. Let's hope it works.

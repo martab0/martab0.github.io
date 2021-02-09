@@ -1,6 +1,6 @@
 ---
 layout: default
-title: (Just for testing)
+title: Testing images
 nav_order: 4
 ---
 
@@ -13,5 +13,3 @@ nav_order: 4
 
 *And here is yet another one, this time entered as a Jekyll include:*  
 {% include il_2_aiming_point.svg %}
-
-Here I am testing an *inline style*{: style="text-decoration: underline; font-style: normal;"}. Let's hope it works.
