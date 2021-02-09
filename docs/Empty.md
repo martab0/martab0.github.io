@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Testing images
+title: Markdown syntax
 nav_order: 1
 ---
 
