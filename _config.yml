@@ -3,7 +3,7 @@ title: Markdown for beginners
 description: Examples of Markdown syntax
 
 remote_theme: martab0/just-the-docs
-color_scheme: dark
+color_scheme: light
 
 aux_links:
   "Source repository on GitHub":
