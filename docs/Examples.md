@@ -1,3 +1,9 @@
+---
+layout: default
+title: Another Markdown example
+nav_order: 4
+---
+
 <!-- Example for normal text -->
 This is a simple line 
 
