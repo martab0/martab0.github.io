@@ -9,7 +9,7 @@ This is a simple line
 
 <!-- Example for title -->
 Title
-=====
+======
 
 <!-- Here comes the TOC -->
 - [Title](#title)
