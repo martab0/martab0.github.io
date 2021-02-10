@@ -41,9 +41,9 @@ So let us not talk falsely now, the hour is getting late”
 [This is a link](http://www.meteo.pl/)
 
 <!-- Example for Images -->
-![Alt text](./images/inglisz.jpg "Hover text")
+![Alt text](/assets/images/inglisz.jpg "Hover text")
 
-![Does not work](file:///C:/MARTY/dokumenty/Vistula/Podstawowe%20technologie%20komunikacji%20technicznej/Examples/images/inglisz.jpg)
+![Local path that does not work](file:///C:/MARTY/dokumenty/Vistula/Podstawowe%20technologie%20komunikacji%20technicznej/Examples/images/inglisz.jpg)
 
 
 
