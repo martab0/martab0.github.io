@@ -12,4 +12,9 @@ permalink: /
 ---
 This repository shows Markdown syntax, Github pages and customizatiin with just-the-docs template.
 
+<<<<<<< Updated upstream
 Ch CH ch ch changes
+=======
+Ch CH ch ch changes.  
+This is going into my branch.
+>>>>>>> Stashed changes
