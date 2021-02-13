@@ -10,6 +10,6 @@ description: "Most of the Markdown syntax"
 permalink: /
 
 ---
-This repository shows Markdown syntax, Github pages and customizatiin with just-the-docs template.
+This repository shows Markdown syntax, Github pages and customization with just-the-docs template.
 
-CHanges from February 13.
+Changes from February 13.
