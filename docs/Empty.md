@@ -44,6 +44,8 @@ If I want a new line, I put two spaces and then Enter. This is still the same pa
 
 Second paragraph of text.
 
+[PDF with Markdown syntax](/assets/pdfs/markdown-cheatsheet.pdf)
+
 <!-- Example for Bold -->
 See how to insert **bold** text!
 
