@@ -58,7 +58,7 @@ And that's *how italic is defined*.
 [Localization](https://localization.pl)
 
 <!-- Example for Images -->
-![Alternative text for no image](/assets/images/inglisz.jpg "even longer hover text")
+![Alternative text for no image](/assets/images/inglisz.jpg "even longer hover text"){style="width: 200px;"}
 
 <!-- Example for linking to another file-->
 [Reference text](Reference.md)
